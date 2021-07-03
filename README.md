@@ -11,6 +11,10 @@ MATLAB script for capture the measurement.
 Python scripts for ploting the results and fitting.
 
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 Meseurement Setup Connectivity:  
 DAQ PINS
 
