@@ -12,7 +12,7 @@ Python scripts for ploting the results and fitting.
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://github.com/daskals/Tunnel-diode-Characterization-and-Modeling/blob/main/MyDAQ_setup.png">
 </p>
 
 Meseurement Setup Connectivity:  
