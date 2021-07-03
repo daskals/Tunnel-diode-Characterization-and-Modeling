@@ -11,19 +11,19 @@ MATLAB script for capture the measurement.
 Python scripts for ploting the results and fitting.
 
 
-Meseurement Setup Connectivity: 
-% DAQ PINS
+Meseurement Setup Connectivity:  
+DAQ PINS
 
-% AO_0 ====> RESISTOR
-% Ao_0 GND ====>  GND
-
-
-% AI_0+ ====> DIODE Anode
-% AI_0- ====> GND
+AO_0 ====> RESISTOR  
+Ao_0 GND ====>  GND  
 
 
-% AI_1+ ====> RESISTOR +
-% AI_1- ====> RESISTOR +
+AI_0+ ====> DIODE Anode  
+AI_0- ====> GND  
 
-% DIODE + (Anode) =====> RESISTOR
-% DIODE - (Cathode)=====> GND
+
+AI_1+ ====> RESISTOR +  
+AI_1- ====> RESISTOR -  
+
+DIODE + (Anode) =====> RESISTOR  
+DIODE - (Cathode)=====> GND  
