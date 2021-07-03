@@ -8,6 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt  #for plotting the data
 import scipy.io
 
+
 mat = scipy.io.loadmat('V_I_A301A_1.mat')
 V_reading_1 = np.array(mat['v_reading']) [0]
 i_reading_1 = np.array(mat['i_reading']) [0]
