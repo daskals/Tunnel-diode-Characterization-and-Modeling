@@ -1,4 +1,5 @@
 #######################################################
+#     Author: Spyros Daskalakis                       #
 #     Last Revision: 03/07/2021                       #
 #     Python Version:  3.9                            #
 #     Email: Daskalakispiros@gmail.com                #
