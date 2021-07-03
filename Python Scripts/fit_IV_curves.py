@@ -28,7 +28,7 @@ fig1 = plt.figure()
 plt.rcParams['font.size'] = 18
 plt.rcParams['font.sans-serif'] = "Arial"
 plt.plot(V_reading_3, i_reading_3,'-o', label='My Data, Diode 3', linewidth=1.5)
-plt.plot(V_reading_3, p(V_reading_3), label='Fit Diode 3', linewidth=1.5)
+plt.plot(V_reading_3, p(V_reading_3), label='Curve fitting Diode 3', linewidth=1.5)
 plt.plot(V_paper * 1000, I_paper * 1000, label='S. Hemour Et al.', linewidth=1.5)
 plt.xlabel('Millivolt (mV)')
 plt.ylabel('Current (mA)')
