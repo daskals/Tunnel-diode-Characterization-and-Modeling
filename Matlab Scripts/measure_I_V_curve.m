@@ -70,7 +70,7 @@ i_reading=zeros(1,length(vout));
  
 
 
-save('V_I_A301A_1','v_reading','i_reading')
+save('V_I_A301A_4b','v_reading','i_reading')
 
 
 
