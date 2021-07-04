@@ -11,6 +11,9 @@ MATLAB script for capture the measurement.
 Python scripts for ploting the results and fitting.
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/daskals/Tunnel-diode-Characterization-and-Modeling/blob/main/MyDAQ_setup.png">
+</p>
 
 Meseurement Setup Connectivity:  
 DAQ PINS
@@ -33,8 +36,4 @@ DIODE - (Cathode)=====> GND
 Results:
 
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/daskals/Tunnel-diode-Characterization-and-Modeling/blob/main/Python%20Scripts/My_diodes_data.png
-">
-</p>
 
