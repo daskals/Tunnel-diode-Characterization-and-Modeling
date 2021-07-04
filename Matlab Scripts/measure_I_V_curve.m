@@ -1,17 +1,13 @@
 %#######################################################
-%#     Spiros Daskalakis--Ricardo Mota                 #
-%#     Last Revision: 01/07/2021                       #
-%#     Python Version:  3.9                            #
+%#     Spiros Daskalakis                               #
+%#     Last Revision: 03/07/2021                       #
 %#     Matlab Version:  R2019b Edu                     #    
 %#     Email: Daskalakispiros@gmail.com                #
 %#######################################################
 
-
-
 clc;
 clear all;
 close all;
-
 
 daq.getDevices
 s = daq.createSession('ni');
