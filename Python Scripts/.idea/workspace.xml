@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="436cf85d-f404-4fc4-9876-0faa68ff5601" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/measure_IV_curve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI301A Bibliography/A full-duplex bidirectional amplifier with low DC power consumption using tunnel diodes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI301A Bibliography/Ultra-Low Power Reflection Amplifier using Tunnel.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../AI301A Bibliography/Ultra-Low Power Reflection Amplifier using Tunnel.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matlab Scripts/measure_I_V_curve.m" beforeDir="false" afterPath="$PROJECT_DIR$/../Matlab Scripts/measure_I_V_curve.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_diode_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/My_diode_model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_diodes_data.png" beforeDir="false" afterPath="$PROJECT_DIR$/My_diodes_data.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/V_I_A301A_4b.mat" beforeDir="false" afterPath="$PROJECT_DIR$/V_I_A301A_4b.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fit_IV_curves.py" beforeDir="false" afterPath="$PROJECT_DIR$/fit_IV_curves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_IV_curves.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot_IV_curves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uubFYx8OnZMrsd3wBmofMGkvuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NI-myDAQ-Python-examples" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fit_IV_curves" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python Scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\daska\Dropbox\GitHub\Tunnel-diode-Characterization-and-Modeling\Python Scripts\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fit_IV_curves.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="436cf85d-f404-4fc4-9876-0faa68ff5601" name="Default Changelist" comment="" />
+      <created>1625518317600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625518317600</updated>
+    </task>
+    <servers />
+  </component>
+</project>

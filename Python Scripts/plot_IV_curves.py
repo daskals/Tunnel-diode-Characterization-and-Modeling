@@ -11,22 +11,24 @@ import matplotlib.pyplot as plt  #for plotting the data
 import scipy.io
 
 
-mat = scipy.io.loadmat('V_I_A301A_1.mat')
+mat = scipy.io.loadmat('V_I_A301A_1b.mat')
 V_reading_1 = np.array(mat['v_reading']) [0]
 i_reading_1 = np.array(mat['i_reading']) [0]
 
-mat = scipy.io.loadmat('V_I_A301A_2.mat')
+mat = scipy.io.loadmat('V_I_A301A_2b.mat')
 V_reading_2 = np.array(mat['v_reading']) [0]
 i_reading_2 = np.array(mat['i_reading']) [0]
 
-mat = scipy.io.loadmat('V_I_A301A_3.mat')
+mat = scipy.io.loadmat('V_I_A301A_3b.mat')
 V_reading_3 = np.array(mat['v_reading']) [0]
 i_reading_3 = np.array(mat['i_reading']) [0]
 
 
-mat = scipy.io.loadmat('V_I_A301A_4.mat')
+mat = scipy.io.loadmat('V_I_A301A_4b.mat')
 V_reading_4 = np.array(mat['v_reading']) [0]
 i_reading_4 = np.array(mat['i_reading']) [0]
+
+
 
 
 fig1 = plt.figure()

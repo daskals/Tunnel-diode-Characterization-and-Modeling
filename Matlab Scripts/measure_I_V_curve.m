@@ -20,7 +20,7 @@ s.Channels(1).Range = [-2 2];
 
 
 counter=1;
-Resistor =52.4;
+Resistor =51.5;
 
 % Display the results
 figure(1);
@@ -47,7 +47,7 @@ i_reading=zeros(1,length(vout));
     v_reading(counter)=VOLT*1000;
     % read the volgate across the resistor
     VOLT_res=singleReading(2);
-    current=VOLT_res/50;
+    current=VOLT_res/Resistor;
     
     %prompt = 'What is the current value for ?';
     %curr = input(prompt)/1000
@@ -66,7 +66,7 @@ i_reading=zeros(1,length(vout));
  
 
 
-save('V_I_A301A_4b','v_reading','i_reading')
+save('V_I_A301A_5b','v_reading','i_reading')
 
 
 
