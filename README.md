@@ -3,7 +3,11 @@
 
 In this repository we try to measure and export the  IV curve of the AI301A tunnel diode.
 
-We use NI MyDAQ and MATLAB softaware for the measurement.
+Tunnel DIODES catalogue:
+https://w140.com/tekwiki/wiki/Russian_tunnel_diodes
+
+We use NI MyDAQ hardware and MATLAB software for the measurement.
+
 
 Hardware: NI MyDAQ, RESISTOR, Capasitor, Tunnel DIODE A301A
 Software: 
