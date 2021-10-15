@@ -39,5 +39,11 @@ DIODE - (Cathode)=====> GND
 
 Results:
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/daskals/Tunnel-diode-Characterization-and-Modeling/blob/main/Python%20Scripts/My_diodes_data.png">
+</p>
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/daskals/Tunnel-diode-Characterization-and-Modeling/blob/main/Python%20Scripts/My_diode_model.png">
+</p>
